@@ -1,4 +1,4 @@
-![tropics](https://raw.githubusercontent.com/tommac99/tommac99/main/banner.jpg)
+![tropics](https://raw.githubusercontent.com/tommac99/tommac99/main/github_banner.jpg)
 
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
