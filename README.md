@@ -1,4 +1,4 @@
-<img src="./img/header.svg" alt="whoami: Thomas MacFarlaine, Applied AI Engineer x Product" width="100%">
+<img src="https://raw.githubusercontent.com/tommac99/tommac99/main/img/header.svg" alt="whoami: Thomas MacFarlaine, Applied AI Engineer x Product" width="100%">
 
 I build applied AI products: RAG pipelines, agent workflows, and the evals that tell you whether they actually work. Software engineer since 2018, founder and CEO of a biotech company through to a planned exit, now doing applied AI full time.
 
